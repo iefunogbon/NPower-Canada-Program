@@ -2,6 +2,9 @@
 
 My name is Idowu Susan Efunogbon. I'm currently enrolled for NPower Canada Junior Data Analyst Program in Toronto, Canada
 
+This repository contains the projects and activities that I will be workingon during my NPower Canada Training to obtain the IBM Data Analyst Certificate.
+
+
 
 # NPower Canada 14- week Junior Data Analyst(JDA) Program
 
@@ -24,5 +27,5 @@ My name is Idowu Susan Efunogbon. I'm currently enrolled for NPower Canada Junio
 
 •	Demonstrated a high level of understanding of Agile Project Management Lifecycle and key techniques and successfully complete Agile projects using tools such as Scrum, Kanban, and Gantt Charts.
 
-# I'm Microsoft Certified : Azure Fundamentals
+
 
