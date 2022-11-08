@@ -24,5 +24,5 @@ My name is Idowu Susan Efunogbon. I'm currently enrolled for NPower Canada Junio
 
 •	Demonstrated a high level of understanding of Agile Project Management Lifecycle and key techniques and successfully complete Agile projects using tools such as Scrum, Kanban, and Gantt Charts.
 
-# I'm Microsoft Cretified : Azure Fundamentals
+# I'm Microsoft Certified : Azure Fundamentals
 
